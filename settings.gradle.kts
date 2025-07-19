@@ -22,3 +22,6 @@ dependencyResolutionManagement {
 rootProject.name = "Video Player Madlife"
 include(":app")
 include(":player-videocache")
+include(":player-ui")
+include(":player")
+include(":player-exoplayer")

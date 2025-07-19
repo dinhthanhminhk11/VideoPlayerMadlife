@@ -10,6 +10,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/player" />
+            <option value="$PROJECT_DIR$/player-exoplayer" />
+            <option value="$PROJECT_DIR$/player-ui" />
             <option value="$PROJECT_DIR$/player-videocache" />
           </set>
         </option>

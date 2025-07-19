@@ -1,0 +1,10 @@
+<resources>
+    <string name="player_replay">Replay</string>
+    <string name="player_lock_tip">Please unlock the screen first!</string>
+    <string name="player_unlocked">Unlocked</string>
+    <string name="player_locked">Locked</string>
+    <string name="player_error_message">Something went wrong, please try again later</string>
+    <string name="player_retry">  Retry  </string>
+    <string name="player_continue_play">Continue playing</string>
+    <string name="player_wifi_tip">You are currently using the mobile network, and continuing to play will consume traffic</string>
+</resources>

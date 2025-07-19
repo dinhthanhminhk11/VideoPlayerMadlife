@@ -1,0 +1,11 @@
+<resources>
+    <string name="player_replay">Phát lại</string>
+    <string name="player_lock_tip">Vui lòng mở khóa màn hình trước!</string>
+    <string name="player_unlocked">Đã mở khóa</string>
+    <string name="player_locked">Đã khóa</string>
+    <string name="player_error_message">Đã xảy ra sự cố, vui lòng thử lại sau</string>
+    <string name="player_retry">Thử lại</string>
+    <string name="player_continue_play">Tiếp tục phát</string>
+    <string name="player_wifi_tip">Bạn đang sử dụng mạng di động, tiếp tục phát sẽ tốn dữ liệu</string>
+
+</resources>
