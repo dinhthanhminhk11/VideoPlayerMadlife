@@ -14,7 +14,7 @@ abstract class BaseFragment<T : ViewBinding>(
     private var _binding: T? = null
     protected val binding get() = _binding!!
 
-    protected var isLazyLoad: Boolean = false
+    open fun isLazyLoad(): Boolean = false
     private var mIsInitData: Boolean = false
     protected val videoManager: VideoViewManager = VideoViewManager.instance()
 
@@ -32,7 +32,7 @@ abstract class BaseFragment<T : ViewBinding>(
         setupViews()
         initOnClickListener()
         observeStateFlow()
-        if (!isLazyLoad) {
+        if (!isLazyLoad()) {
             fetchData()
         }
     }

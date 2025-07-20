@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+    <item
+        android:id="@+id/impl_recycler_view"
+        android:title="RecyclerView"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/impl_vertical_view_pager"
+        android:title="VerticalViewPager"
+        tools:ignore="HardcodedText" />
+    <item
+        android:id="@+id/impl_view_pager_2"
+        android:title="ViewPager2"
+        tools:ignore="HardcodedText" />
+</menu>
