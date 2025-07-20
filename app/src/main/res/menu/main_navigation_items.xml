@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/tab_api"
+        android:title="@string/str_api"
+        android:icon="@drawable/baseline_home_24" />
+    <item android:id="@+id/tab_list"
+        android:title="@string/str_list"
+        android:icon="@drawable/baseline_list_24" />
+    <item android:id="@+id/tab_extension"
+        android:title="@string/str_extend"
+        android:icon="@drawable/baseline_extension_24" />
+    <item android:id="@+id/tab_pip"
+        android:title="@string/str_pip"
+        android:icon="@drawable/baseline_picture_in_picture_24" />
+</menu>

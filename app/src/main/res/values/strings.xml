@@ -1,3 +1,40 @@
 <resources>
     <string name="app_name">Video Player Madlife</string>
+    <string name="str_api">Home</string>
+    <string name="str_list">Danh sách</string>
+    <string name="str_extend">Mở rộng</string>
+    <string name="str_pip">Ảnh trong ảnh</string>
+    <string name="str_api_vod">Video theo yêu cầu</string>
+    <string name="str_api_live">Truyền hình trực tiếp</string>
+    <string name="str_api_music">Âm nhạc</string>
+    <string name="str_definition">Chuyển đổi độ phân giải</string>
+    <string name="str_custom_render_view">Tùy chỉnh RenderView, bộ lọc, watermark</string>
+    <string name="str_custom_ijk">Tùy chỉnh IjkMediaPlayer</string>
+    <string name="str_custom_exo">Tùy chỉnh ExoMediaPlayer</string>
+    <string name="str_screen_shot">Chụp màn hình</string>
+    <string name="str_raw_or_assets">Phát từ Raw hoặc Assets</string>
+    <string name="str_file">Phát từ tệp</string>
+    <string name="str_multi_player">Phát đồng thời nhiều trình phát</string>
+    <string name="str_list_view">ListView</string>
+    <string name="str_recycler_view">RecyclerView</string>
+    <string name="str_auto_play_recycler_view">RecyclerView tự động phát</string>
+    <string name="str_portrait_when_fullscreen">Toàn màn hình chuyển sang ngang thủ công</string>
+    <string name="str_tiktok">TikTok</string>
+    <string name="str_tiktok_1">TikTok (RecyclerView)</string>
+    <string name="str_tiktok_2">TikTok (VerticalViewPager)</string>
+    <string name="str_tiktok_3">TikTok (ViewPager2)</string>
+    <string name="str_fullscreen_directly">Phát toàn màn hình trực tiếp</string>
+    <string name="str_danmu">Bình luận nổi (Danmu)</string>
+    <string name="str_ad">Quảng cáo</string>
+    <string name="str_pip_demo">Ảnh trong ảnh</string>
+    <string name="str_pip_in_list">Ảnh trong ảnh khi cuộn danh sách</string>
+    <string name="str_pip_android_o">Demo ảnh trong ảnh Android 8.0</string>
+    <string name="str_start_pip">Cửa sổ nổi</string>
+    <string name="str_tiny_screen">Phát trong cửa sổ nhỏ</string>
+    <string name="str_cache">Bộ nhớ đệm</string>
+    <string name="str_play_list">Phát liên tục một danh sách</string>
+    <string name="str_switch_player_btn">Chuyển đổi trình phát</string>
+    <string name="str_seamless_play">Phát liền mạch</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
